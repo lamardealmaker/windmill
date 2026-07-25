@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.771.0](https://github.com/windmill-labs/windmill/compare/v1.770.0...v1.771.0) (2026-07-25)
+
+
+### Features
+
+* bind WAC approval urls to a named wait_for_approval step ([#10317](https://github.com/windmill-labs/windmill/issues/10317)) ([9cef724](https://github.com/windmill-labs/windmill/commit/9cef724ff2fcae7aea7b11582ce18529f589665d))
+* make bigquery and snowflake script languages available in CE ([#10324](https://github.com/windmill-labs/windmill/issues/10324)) ([a8455ac](https://github.com/windmill-labs/windmill/commit/a8455acd7dd11a79f775a401275a128f206cace7))
+* multiple homepage sort orders via an efficient merged runnables endpoint ([#10297](https://github.com/windmill-labs/windmill/issues/10297)) ([71b7135](https://github.com/windmill-labs/windmill/commit/71b7135cf2457034949540a6c1568424ce9ba8b5))
+
+
+### Bug Fixes
+
+* **frontend:** pin sveltekit version.name so builds are reproducible across architectures ([#10315](https://github.com/windmill-labs/windmill/issues/10315)) ([65db58b](https://github.com/windmill-labs/windmill/commit/65db58bfdaf50009931e3594bd55c5d6c4c07332))
+
 ## [1.770.0](https://github.com/windmill-labs/windmill/compare/v1.769.0...v1.770.0) (2026-07-24)
 
 
